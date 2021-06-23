@@ -1,5 +1,11 @@
 # What's new in TensorFlow 2.x
 
+Take a moment to think what could be new before continue reading.
+
+...
+
+Are you ready?
+
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
